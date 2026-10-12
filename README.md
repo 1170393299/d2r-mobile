@@ -132,7 +132,7 @@ Enter through the red portal in Harrogath after completing Hell. There are 100 l
 - **Pouch**: an extended inventory. Runes and gems found in the field go into it automatically and take up no inventory space.
 
 <p align="center">
-  <img src="https://github.com/jhaizhou-ops/d2r-mobile/releases/download/assets/trove.jpg" width="49%" alt="The Trove: gems, runes, materials and the crafting grid on one page">
+  <img src="https://github.com/jhaizhou-ops/d2r-mobile/releases/download/assets/en_trove.jpg" width="49%" alt="The Trove: gems, runes, materials and the crafting grid on one page">
   <img src="https://github.com/jhaizhou-ops/d2r-mobile/releases/download/assets/en_chronicle.jpg" width="49%" alt="The Chronicle stash">
 </p>
 
