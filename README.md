@@ -1,10 +1,10 @@
 # D2R Mobile
 
-**An open-source iOS compatibility layer for Diablo II: Resurrected.** It brings the Nintendo Switch release you bought to iPhone and iPad in full: the original game code runs natively, every control is rebuilt for touch, the frame rate holds at 60 fps, and you are in a game one second after the main menu.
+**An open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion.** It brings the Nintendo Switch release you bought, expansion included, to iPhone and iPad in full: the original game code runs natively, every control is rebuilt for touch, the frame rate holds at 60 fps, and you are in a game one second after the main menu.
 
 This is not a tech demo that "sort of runs". It is a mobile version polished for daily play, from your first character all the way through the endgame.
 
-Platforms: iPhone / iPad (iOS 26 and later) · Game version: Switch release 3.3.94012 · English / 中文 · License: MIT · **Bring your own game files**
+Platforms: iPhone / iPad (iOS 26 and later) · Game version: Switch release with Reign of the Warlock, 3.3.94012 · English / 中文 · License: MIT · **Bring your own game files**
 
 中文: [README.zh-CN.md](README.zh-CN.md)
 
@@ -191,7 +191,7 @@ flowchart LR
 
 ## Getting started
 
-Both routes start with **the files of the game you bought** (Switch release 3.3.94012). How to prepare them is in [docs/GAME_FILES.md](docs/GAME_FILES.md).
+Both routes start with **the files of the game you bought**: the Switch release of Diablo II: Resurrected plus the Reign of the Warlock expansion, updated to 3.3.94012. This project is built for the version with that expansion; using it without the expansion is not supported and has not been verified. How to prepare them is in [docs/GAME_FILES.md](docs/GAME_FILES.md).
 
 | | With a Mac | Without a Mac |
 |---|---|---|
@@ -266,7 +266,7 @@ Download our prebuilt "shell" package (`D2RMobile-shell.ipa`), which contains no
 
 ## Legal
 
-**You must own the game.** This is an independent, non-commercial project. It is not affiliated with, endorsed by, or sponsored by Blizzard Entertainment or Nintendo. Diablo and Blizzard Entertainment are trademarks of Blizzard Entertainment, Inc.; Nintendo Switch is a trademark of Nintendo. Use it only with a copy of the game that you own.
+**You must own the game, including the Reign of the Warlock expansion.** This is an independent, non-commercial project. It is not affiliated with, endorsed by, or sponsored by Blizzard Entertainment or Nintendo. Diablo and Blizzard Entertainment are trademarks of Blizzard Entertainment, Inc.; Nintendo Switch is a trademark of Nintendo. Use it only with a copy of the game that you own.
 
 ## License
 

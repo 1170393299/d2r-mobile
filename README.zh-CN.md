@@ -1,10 +1,10 @@
 # D2R Mobile
 
-**开源的《暗黑破坏神 II：狱火重生》iOS 兼容层。** 把你自己购买的 Nintendo Switch 版游戏完整带到 iPhone 和 iPad 上：原版内核原生执行，整套操作为触屏重做，稳定 60 帧，一秒进局。
+**开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层。** 把你自己购买的 Nintendo Switch 版游戏（含「术士君临」资料片）完整带到 iPhone 和 iPad 上：原版内核原生执行，整套操作为触屏重做，稳定 60 帧，一秒进局。
 
 这不是一个「勉强能跑」的技术演示，而是一个打磨到可以天天玩、从开荒一路玩到终局的移动版。
 
-平台：iPhone / iPad（iOS 26 起）· 游戏版本：Switch 版 3.3.94012 · 中文 / English · 许可证：MIT · **需要自备游戏文件**
+平台：iPhone / iPad（iOS 26 起）· 游戏版本：Switch 版「术士君临」3.3.94012 · 中文 / English · 许可证：MIT · **需要自备游戏文件**
 
 English: [README.md](README.md)
 
@@ -191,7 +191,7 @@ flowchart LR
 
 ## 开始使用
 
-两条路都要先有**你自己购买的游戏的文件**（Switch 版 3.3.94012），怎么准备见 [docs/GAME_FILES.zh-CN.md](docs/GAME_FILES.zh-CN.md)。
+两条路都要先有**你自己购买的游戏的文件**：Switch 版《暗黑破坏神 II：狱火重生》本体加「术士君临」资料片，更新到 3.3.94012。本项目是按带这部资料片的版本做的，没有资料片的情况不支持、也没有验过。怎么准备见 [docs/GAME_FILES.zh-CN.md](docs/GAME_FILES.zh-CN.md)。
 
 | | 有 Mac | 没有 Mac |
 |---|---|---|
@@ -266,7 +266,7 @@ flowchart LR
 
 ## 声明
 
-**你必须拥有正版游戏。** 这是一个独立的非商业项目，与暴雪娱乐、任天堂没有关联，也未获其认可或赞助。Diablo 与 Blizzard Entertainment 是暴雪娱乐的商标，Nintendo Switch 是任天堂的商标。请只配合你自己拥有的游戏使用。
+**你必须拥有正版游戏，包括「术士君临」资料片。** 这是一个独立的非商业项目，与暴雪娱乐、任天堂没有关联，也未获其认可或赞助。Diablo 与 Blizzard Entertainment 是暴雪娱乐的商标，Nintendo Switch 是任天堂的商标。请只配合你自己拥有的游戏使用。
 
 ## 许可证
 

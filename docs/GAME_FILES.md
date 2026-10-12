@@ -6,7 +6,7 @@
 
 ## Which files
 
-The Switch release, updated to **3.3.94012**. You need two parts of it:
+The Switch release of Diablo II: Resurrected **with the Reign of the Warlock expansion**, updated to **3.3.94012**. The base game, the update and the expansion all have to be ones you bought yourself; this project is built for the version with the expansion, and using it without the expansion is not supported and has not been verified. You need two parts of it:
 
 | Part | Contents | Size |
 |---|---|---|
